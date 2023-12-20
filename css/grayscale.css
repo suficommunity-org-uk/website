@@ -302,7 +302,8 @@ body {
 
 .how-it-works-section {
     color: black;
-    background-color: #fffcd2;
+    /*background-color: #fffcd2;*/
+    background: white;
   /* background-color: #eeeeee; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -503,3 +504,8 @@ textarea {
     background-color: lightgray;
     border-color: lightgray;
 }
+
+
+/*#register {*/
+/*    background: white;*/
+/*}*/
